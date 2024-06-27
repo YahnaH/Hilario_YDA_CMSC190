@@ -1,7 +1,7 @@
 # Identification of GAN-Generated Images through Frequency Analysis and Machine Learning
 
 ## Author: Yanna Denise A. Hilario
-### Adviser: Rodolfo Camaclang III
+### Adviser: Asst. Prof. Rodolfo C. Camaclang III
 ### AY: 2023-2024
 
 ### Abstract
